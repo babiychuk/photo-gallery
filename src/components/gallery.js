@@ -16,7 +16,7 @@ class Gallery extends React.Component {
     }
 
     componentDidMount() { // метод ЖЦ после отрисовки всех компонентов
-        fetch("http://jsonplaceholder.typicode.com/photos") // метод для извлечения данных
+        fetch("https://jsonplaceholder.typicode.com/photos") // метод для извлечения данных
             .then(res => res.json())
             .then(json => {
                 this.setState({ //метод для изменение состояния компонента
