@@ -1,13 +1,13 @@
 {
   "main.css": "/photo-gallery/static/css/main.7f5adfaf.chunk.css",
-  "main.js": "/photo-gallery/static/js/main.6a703cc2.chunk.js",
-  "main.js.map": "/photo-gallery/static/js/main.6a703cc2.chunk.js.map",
+  "main.js": "/photo-gallery/static/js/main.6b3621d6.chunk.js",
+  "main.js.map": "/photo-gallery/static/js/main.6b3621d6.chunk.js.map",
   "runtime~main.js": "/photo-gallery/static/js/runtime~main.0958a99a.js",
   "runtime~main.js.map": "/photo-gallery/static/js/runtime~main.0958a99a.js.map",
   "static/js/2.8df26a03.chunk.js": "/photo-gallery/static/js/2.8df26a03.chunk.js",
   "static/js/2.8df26a03.chunk.js.map": "/photo-gallery/static/js/2.8df26a03.chunk.js.map",
   "index.html": "/photo-gallery/index.html",
-  "precache-manifest.d0372f15588e5c28cef2fe10b906f41a.js": "/photo-gallery/precache-manifest.d0372f15588e5c28cef2fe10b906f41a.js",
+  "precache-manifest.76a84d797a501c91b364f15ea617be2a.js": "/photo-gallery/precache-manifest.76a84d797a501c91b364f15ea617be2a.js",
   "service-worker.js": "/photo-gallery/service-worker.js",
   "static/css/main.7f5adfaf.chunk.css.map": "/photo-gallery/static/css/main.7f5adfaf.chunk.css.map"
 }
