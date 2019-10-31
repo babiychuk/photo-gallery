@@ -20,7 +20,7 @@ class Photos extends React.Component {
         let locationPath = parseInt(this.props.location.pathname.slice(7));
         let album = [];
 
-        fetch("http://jsonplaceholder.typicode.com/photos") // метод для извлечения данных
+        fetch("https://jsonplaceholder.typicode.com/photos") // метод для извлечения данных
             .then(res => res.json())
             .then(json => {
 
